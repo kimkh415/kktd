@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.egg-info/
-venv/
-ENV/
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
